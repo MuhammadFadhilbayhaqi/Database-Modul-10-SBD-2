@@ -1,0 +1,528 @@
+[{
+  "_id": {
+    "$oid": "66e86eee82982eedc790d695"
+  },
+  "judul": "Pemrograman Java untuk Pemula",
+  "penulis": "Ahmad Taufiq",
+  "tahun_terbit": 2018,
+  "kategori": "Teknologi",
+  "harga": 100000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86eee82982eedc790d696"
+  },
+  "judul": "Teknologi Blockchain dan Masa Depan",
+  "penulis": "Budi Santoso",
+  "tahun_terbit": 2021,
+  "kategori": "Teknologi",
+  "harga": 150000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86eee82982eedc790d697"
+  },
+  "judul": "Desain Grafis dengan Adobe Illustrator",
+  "penulis": "Rina Andriani",
+  "tahun_terbit": 2019,
+  "kategori": "Desain",
+  "harga": 120000,
+  "status": "dipinjam"
+},
+{
+  "_id": {
+    "$oid": "66e86eee82982eedc790d698"
+  },
+  "judul": "Psikologi dalam Kehidupan Sehari-hari",
+  "penulis": "Sri Wahyuni",
+  "tahun_terbit": 2016,
+  "kategori": "Psikologi",
+  "harga": 90000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86eee82982eedc790d699"
+  },
+  "judul": "Belajar Python dari Nol",
+  "penulis": "Siti Nurhaliza",
+  "tahun_terbit": 2017,
+  "kategori": "Teknologi",
+  "harga": 110000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86eee82982eedc790d69a"
+  },
+  "judul": "Manajemen Proyek",
+  "penulis": "Dewi Sartika",
+  "tahun_terbit": 2015,
+  "kategori": "Bisnis",
+  "harga": 130000,
+  "status": "dipinjam"
+},
+{
+  "_id": {
+    "$oid": "66e86eee82982eedc790d69b"
+  },
+  "judul": "Analisis Data dengan Python",
+  "penulis": "Hendra Setiawan",
+  "tahun_terbit": 2020,
+  "kategori": "Teknologi",
+  "harga": 140000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86eee82982eedc790d69c"
+  },
+  "judul": "Membangun Startup dari Nol",
+  "penulis": "Agus Salim",
+  "tahun_terbit": 2022,
+  "kategori": "Bisnis",
+  "harga": 200000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d69d"
+  },
+  "judul": "Dasar-Dasar Jaringan Komputer",
+  "penulis": "Rudi Hartono",
+  "tahun_terbit": 2013,
+  "kategori": "Teknologi",
+  "harga": 95000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d69e"
+  },
+  "judul": "Kecerdasan Buatan dan Machine Learning",
+  "penulis": "Arief Budiman",
+  "tahun_terbit": 2019,
+  "kategori": "Teknologi",
+  "harga": 180000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d69f"
+  },
+  "judul": "Seni Berbicara di Depan Umum",
+  "penulis": "Dian Sastro",
+  "tahun_terbit": 2014,
+  "kategori": "Pengembangan Diri",
+  "harga": 125000,
+  "status": "dipinjam"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6a0"
+  },
+  "judul": "Ekonomi Mikro dan Makro",
+  "penulis": "Tri Wahyudi",
+  "tahun_terbit": 2021,
+  "kategori": "Ekonomi",
+  "harga": 160000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6a1"
+  },
+  "judul": "Dasar-Dasar Manajemen",
+  "penulis": "Bambang Soedjono",
+  "tahun_terbit": 2016,
+  "kategori": "Bisnis",
+  "harga": 135000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6a2"
+  },
+  "judul": "Teknik Fotografi Profesional",
+  "penulis": "Indra Nugraha",
+  "tahun_terbit": 2015,
+  "kategori": "Seni",
+  "harga": 175000,
+  "status": "dipinjam"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6a3"
+  },
+  "judul": "Sejarah Dunia: Perang Dunia II",
+  "penulis": "Sigit Prabowo",
+  "tahun_terbit": 2012,
+  "kategori": "Sejarah",
+  "harga": 140000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6a4"
+  },
+  "judul": "Statistika untuk Penelitian",
+  "penulis": "Hadi Santoso",
+  "tahun_terbit": 2017,
+  "kategori": "Matematika",
+  "harga": 150000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6a5"
+  },
+  "judul": "Pola Hidup Sehat dengan Nutrisi",
+  "penulis": "Fitri Ananda",
+  "tahun_terbit": 2020,
+  "kategori": "Kesehatan",
+  "harga": 100000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6a6"
+  },
+  "judul": "Rahasia Sukses Wirausaha",
+  "penulis": "Lina Permata",
+  "tahun_terbit": 2018,
+  "kategori": "Bisnis",
+  "harga": 125000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6a7"
+  },
+  "judul": "Filsafat dan Logika",
+  "penulis": "Dewi Mariani",
+  "tahun_terbit": 2014,
+  "kategori": "Filsafat",
+  "harga": 95000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6a8"
+  },
+  "judul": "Mendalami Pemrograman Web",
+  "penulis": "Anton Gunawan",
+  "tahun_terbit": 2020,
+  "kategori": "Teknologi",
+  "harga": 130000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6a9"
+  },
+  "judul": "Ilmu Pengetahuan Alam untuk Pemula",
+  "penulis": "Sari Yulianti",
+  "tahun_terbit": 2019,
+  "kategori": "Ilmu Pengetahuan Alam",
+  "harga": 115000,
+  "status": "dipinjam"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6aa"
+  },
+  "judul": "Panduan Fotografi Digital",
+  "penulis": "Haryo Setiawan",
+  "tahun_terbit": 2013,
+  "kategori": "Seni",
+  "harga": 160000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6ab"
+  },
+  "judul": "Seni Melukis dengan Cat Air",
+  "penulis": "Galih Permadi",
+  "tahun_terbit": 2015,
+  "kategori": "Seni",
+  "harga": 145000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6ac"
+  },
+  "judul": "Pengantar Akuntansi Keuangan",
+  "penulis": "Dian Nugraha",
+  "tahun_terbit": 2016,
+  "kategori": "Akuntansi",
+  "harga": 170000,
+  "status": "dipinjam"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6ad"
+  },
+  "judul": "Pemrograman Berbasis Objek dengan C++",
+  "penulis": "Asep Kurniawan",
+  "tahun_terbit": 2022,
+  "kategori": "Teknologi",
+  "harga": 135000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6ae"
+  },
+  "judul": "Teknik Mengajar yang Efektif",
+  "penulis": "Yuli Rahayu",
+  "tahun_terbit": 2018,
+  "kategori": "Pendidikan",
+  "harga": 95000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6af"
+  },
+  "judul": "Pengantar Statistik Bisnis",
+  "penulis": "Nina Kurniawati",
+  "tahun_terbit": 2017,
+  "kategori": "Ekonomi",
+  "harga": 155000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e86fb682982eedc790d6b0"
+  },
+  "judul": "Algoritma dan Struktur Data",
+  "penulis": "Rizky Putra",
+  "tahun_terbit": 2019,
+  "kategori": "Teknologi",
+  "harga": 160000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6b1"
+  },
+  "judul": "Membangun Aplikasi Mobile dengan Flutter",
+  "penulis": "Andre Wahyudi",
+  "tahun_terbit": 2021,
+  "kategori": "Teknologi",
+  "harga": 170000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6b2"
+  },
+  "judul": "Psikologi Kepribadian",
+  "penulis": "Rina Fauziah",
+  "tahun_terbit": 2016,
+  "kategori": "Psikologi",
+  "harga": 120000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6b3"
+  },
+  "judul": "Teknik Dasar Berpidato",
+  "penulis": "Agus Suryanto",
+  "tahun_terbit": 2018,
+  "kategori": "Pengembangan Diri",
+  "harga": 110000,
+  "status": "dipinjam"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6b4"
+  },
+  "judul": "Fotografi Jurnalistik",
+  "penulis": "Eka Purnama",
+  "tahun_terbit": 2015,
+  "kategori": "Jurnalistik",
+  "harga": 140000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6b5"
+  },
+  "judul": "Teori Ekonomi Modern",
+  "penulis": "Rahmat Gunawan",
+  "tahun_terbit": 2019,
+  "kategori": "Ekonomi",
+  "harga": 160000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6b6"
+  },
+  "judul": "Metodologi Penelitian Sosial",
+  "penulis": "Dedi Suhendra",
+  "tahun_terbit": 2020,
+  "kategori": "Sosial",
+  "harga": 180000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6b7"
+  },
+  "judul": "Mikroekonomi: Teori dan Aplikasi",
+  "penulis": "Tono Riyanto",
+  "tahun_terbit": 2014,
+  "kategori": "Ekonomi",
+  "harga": 150000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6b8"
+  },
+  "judul": "Pemrograman Web dengan PHP dan MySQL",
+  "penulis": "Fajar Setiawan",
+  "tahun_terbit": 2017,
+  "kategori": "Teknologi",
+  "harga": 130000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6b9"
+  },
+  "judul": "Panduan Lengkap Investasi Saham",
+  "penulis": "Rudi Wijaya",
+  "tahun_terbit": 2020,
+  "kategori": "Bisnis",
+  "harga": 190000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6ba"
+  },
+  "judul": "Kiat Menulis Artikel Ilmiah",
+  "penulis": "Sri Handayani",
+  "tahun_terbit": 2018,
+  "kategori": "Pendidikan",
+  "harga": 105000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6bb"
+  },
+  "judul": "Fotografi untuk Pemula",
+  "penulis": "Herman Setiono",
+  "tahun_terbit": 2012,
+  "kategori": "Seni",
+  "harga": 125000,
+  "status": "dipinjam"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6bc"
+  },
+  "judul": "Pengenalan Big Data",
+  "penulis": "Ivan Prayoga",
+  "tahun_terbit": 2021,
+  "kategori": "Teknologi",
+  "harga": 175000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6bd"
+  },
+  "judul": "Manajemen Proyek IT",
+  "penulis": "Nurul Hidayah",
+  "tahun_terbit": 2022,
+  "kategori": "Teknologi",
+  "harga": 160000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6be"
+  },
+  "judul": "Etika Bisnis dalam Era Global",
+  "penulis": "Asep Ridwan",
+  "tahun_terbit": 2015,
+  "kategori": "Bisnis",
+  "harga": 140000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6bf"
+  },
+  "judul": "Psikologi Pendidikan",
+  "penulis": "Ani Susanti",
+  "tahun_terbit": 2016,
+  "kategori": "Pendidikan",
+  "harga": 145000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6c0"
+  },
+  "judul": "Dasar-Dasar Kriptografi",
+  "penulis": "Wawan Kurniawan",
+  "tahun_terbit": 2019,
+  "kategori": "Teknologi",
+  "harga": 160000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6c1"
+  },
+  "judul": "Pengantar Jurnalistik Modern",
+  "penulis": "Andi Santoso",
+  "tahun_terbit": 2014,
+  "kategori": "Jurnalistik",
+  "harga": 115000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6c2"
+  },
+  "judul": "Sosiologi: Konsep dan Aplikasi",
+  "penulis": "Yusuf Hamdani",
+  "tahun_terbit": 2013,
+  "kategori": "Sosial",
+  "harga": 135000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6c3"
+  },
+  "judul": "Pemrograman Android dengan Kotlin",
+  "penulis": "Erik Pratama",
+  "tahun_terbit": 2021,
+  "kategori": "Teknologi",
+  "harga": 165000,
+  "status": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "66e8704a82982eedc790d6c4"
+  },
+  "judul": "Seni Presentasi yang Efektif",
+  "penulis": "Rian Aditya",
+  "tahun_terbit": 2017,
+  "kategori": "Pengembangan Diri",
+  "harga": 115000,
+  "status": "tersedia"
+}]
